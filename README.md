@@ -11,5 +11,5 @@
 <p></a><img src="https://media.giphy.com/media/fLp2fTpKTZsj2xW1zI/giphy.gif" width="30vw"/> <em> I'm currently looking for opportunities.I love learning and contributing in any way possible.</em></p>
 
 <br><br>
-<img align="right" src="https://media.giphy.com/media/jiqyXvkHQzEBy/giphy.gif" width="50"> 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 
+</em><img src="https://media.giphy.com/media/jiqyXvkHQzEBy/giphy.gif" width="50"> 
