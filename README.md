@@ -1,15 +1,16 @@
 
-<h1>I'm Francisca Lastra<img src="https://media.giphy.com/media/LNwaHUgisuvnlJ7SZS/giphy.gif" width="50"></h1> 
+<h1>Well, Hello [There] <img src="https://media.giphy.com/media/LNwaHUgisuvnlJ7SZS/giphy.gif" width="50"></h1> 
+
 <img align="left" src="https://media.giphy.com/media/H1Amx0RERJSE6gPXTW/giphy.gif" width="230"/>
 
-<p></a><img src="https://media.giphy.com/media/7ZFceUUTpEygE/giphy.gif" width="30vw"><em> iOS developer at <a href="http://www.enjoei.com.br">enjoei</em></p>
-<p></a><img src="https://media.giphy.com/media/SGGHAPCjED1OcW6ixv/giphy.gif" width="30vw"/> <em> computer science student</em></p>
-<p></a><img src="https://media.giphy.com/media/3kySO0j8YlnT8irBKj/giphy.gif" width="30vw"/> <em>design enthusiast</em></p>
-<p></a><img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif" width="30vw"/> <em> in love with science, tech, math & art</em></p>
-<p></a><img src="https://media.giphy.com/media/wIkGlPFEjzy8qykkUJ/giphy.gif" width="30vw"/> <em> platform games player</em></p>
-<p></a><img src="https://media.giphy.com/media/fLp2fTpKTZsj2xW1zI/giphy.gif" width="30vw"/> <em> colorful post-it notes lover</em></p>
+<p></a><img src="https://media.giphy.com/media/7ZFceUUTpEygE/giphy.gif" width="30vw"><em> I'm Full Stack Developer  who is learning about Front end.</em></p>
+<p></a><img src="https://media.giphy.com/media/SGGHAPCjED1OcW6ixv/giphy.gif" width="30vw"/><em>I'm constantly learning new languages and creating my own personal projects.</em></p>
+<p></a><img src="https://media.giphy.com/media/3kySO0j8YlnT8irBKj/giphy.gif" width="30vw"/> <em> In love with Marketing, digital proces & designe</em></p>
+<p></a><img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif" width="30vw"/> <em> Plants lover</em></p>
+<p></a><img src="https://media.giphy.com/media/wIkGlPFEjzy8qykkUJ/giphy.gif" width="30vw"/> <em> Nintendo games player</em></p>
+<p></a><img src="https://media.giphy.com/media/fLp2fTpKTZsj2xW1zI/giphy.gif" width="30vw"/> <em> I'm currently looking for opportunities.I love learning and contributing in any way possible.</em></p>
 
-
+<br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscalastra/)](https://www.linkedin.com/in/franciscalastra/)
 
 
