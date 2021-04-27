@@ -1,5 +1,5 @@
 
-<h1>Well, Hello [There] <img src="https://media.giphy.com/media/LNwaHUgisuvnlJ7SZS/giphy.gif" width="50"></h1> 
+<h1>Well, Hello [There]</h1> 
 
 <img align="left" src="https://media.giphy.com/media/H1Amx0RERJSE6gPXTW/giphy.gif" width="230"/>
 
