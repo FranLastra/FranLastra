@@ -1,7 +1,7 @@
 
 <h1>Well, Hello [There]</h1> 
 
-<img align="left" src="https://media.giphy.com/media/H1Amx0RERJSE6gPXTW/giphy.gif" width="250"/>
+<img align="left" src="https://media.giphy.com/media/H1Amx0RERJSE6gPXTW/giphy.gif" width="270"/>
 
 <p></a><img src="https://media.giphy.com/media/7ZFceUUTpEygE/giphy.gif" width="40vw"><em> I'm Full Stack Developer  who is learning about Front end.</em></p>
 <p></a><img src="https://media.giphy.com/media/wIkGlPFEjzy8qykkUJ/giphy.gif" width="30vw"/><em>I'm constantly learning new languages and creating my own personal projects.</em></p>
